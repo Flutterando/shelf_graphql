@@ -19,7 +19,13 @@ mutation {
 }
 ```
 
+# Arquitetura
+
+- [Documentação de arquitetura](ARCHITECTURE.md).
+
 # Servidores graphql de outras linguagens
 
 - [Apollo Server (Javascript)](https://www.apollographql.com/docs/apollo-server/).
 - [graphql_server (Dart)](https://pub.dev/packages/graphql_server2).
+
+
